@@ -1,5 +1,8 @@
 # Oracle Java Binaries
 
+
+[https://github.com/frekele/oracle-java/releases]: https://github.com/frekele/oracle-java/releases
+
 #### Copy of the original artifacts from the Oracle url site [http://download.oracle.com/otn-pub/java/jdk/]...version
 
 #### Artifacts used to compile project [docker-java]
